@@ -1,12 +1,12 @@
 {
-  "name": "cafeteria",
+  "name": "escueladecocina",
   "version": "1.0.0",
   "description": "Delivery App, BEM, SASS, Gulp, CSS Grid",
   "main": "index.js",
   "scripts": {
     "dev": "gulp"
   },
-  "author": "Juan De la torre @codigoconjuan",
+  "author": "Juliana García Corredor @JulioGeralDev",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^10.3.1",
