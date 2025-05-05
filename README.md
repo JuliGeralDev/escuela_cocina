@@ -5,7 +5,7 @@ This is not a fully functional application, but a design-focused exercise showca
 
 ## 🔗 Live Preview
 
-*Coming soon...* (You can add a Netlify or GitHub Pages link here)
+*Coming soon...
 
 ## 📁 Project Structure
 
