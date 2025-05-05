@@ -5,7 +5,7 @@ This is not a fully functional application, but a design-focused exercise showca
 
 ## 🔗 Live Preview
 
-*Coming soon...
+[👉 View the Demo on Netlify](https://escuela-cocina-juligeraldev.netlify.app/)
 
 ## 📁 Project Structure
 
